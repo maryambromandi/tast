@@ -1,2 +1,2 @@
 # tast
-Type hello
+* hello word
